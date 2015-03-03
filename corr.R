@@ -4,7 +4,7 @@
 #
 # by: Francis Kessie
 #
-# corr.R is a function that takes a directory of data files and a threshold
+# corr.R is a program that takes a directory of data files and a threshold
 # for complete cases and calculates the correlation between sulfate and nitrate
 # for monitor locations where the number of completely observed cases 
 # (on all variables) is greater than the threshold. The function returns a vector 
