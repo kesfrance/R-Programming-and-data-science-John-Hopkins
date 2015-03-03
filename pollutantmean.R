@@ -5,10 +5,10 @@
 # by: Francis Kessie
 #
 #
-#pollutantmean.R calculates the mean of a pollutant (sulfate or nitrate) 
-#across a specified list of monitors. Given a vector monitor ID numbers, the 
-#function computes the mean of the pollutant across all of the monitors, 
-#ignoring any missing values coded as NA.
+# pollutantmean.R calculates the mean of a pollutant (sulfate or nitrate) 
+# across a specified list of monitors. Given a vector monitor ID numbers, the 
+# function computes the mean of the pollutant across all of the monitors, 
+# ignoring any missing values coded as NA.
 
 
 pollutantmean <- function(specdata, pollutant, id = 1:332){
