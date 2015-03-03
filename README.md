@@ -10,7 +10,7 @@ that for exploratory data analysis is https://class.coursera.org/exdata-011
 
 This repo will be updated every now and then, as i have a number of scripts more to add.
 
-I would want to document them properly before i put them up but i ma very bussy at the moment 
+I would want to document them properly before i put them up.
 
 I will also add more scripts when I complete more courses in the series.
 
