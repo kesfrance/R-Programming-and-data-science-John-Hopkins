@@ -3,12 +3,13 @@
 #
 # by: Francis Kessie
 #
-""" cachematrix.R contain two functions that are used to create a special matrix object
-and its inverse. However, it first checks to see if the inverse has already been
+# cachematrix.R contain two functions that are used to create a special matrix object
+# and its inverse. However, it first checks to see if the inverse has already been
 ## calculated. If so, it `get`s the mean from the cache and skips the computation
 ## This program assumes that the matrix supplied is always invertible.
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
+
 makeCacheMatrix <- function(x = matrix()) {
 m <- NULL
 set <- function(y) {
