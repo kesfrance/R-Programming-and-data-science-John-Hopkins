@@ -1,6 +1,6 @@
 # R-Programming-and-data-science-John-Hopkins
 
-This is a Repository of R programs generated from the data science course series on cousera.
+This is a Repository for R programs generated from the data science course series on cousera.
 
 So far I have taken the course in R-programming and exploratory data analysis, so this 
 repo will contain the scripts generated from those two courses.
