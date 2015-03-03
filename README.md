@@ -17,4 +17,4 @@ I will also add more scripts when I complete more courses in the series.
 The data files contain the data set on which the scripts were evaluated.
 
 The scripts pollutantmean.R, complete.R, corr.R were developed to analyse the pollution monitoring
-data for particulate matter air pollution at 332 locations in the united States. I will soon upload the data
+data for particulate matter air pollution at 332 locations in the united States. I will soon upload the data set.
