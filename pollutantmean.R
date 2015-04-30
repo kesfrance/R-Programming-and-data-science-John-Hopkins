@@ -1,6 +1,6 @@
 #!/usr/bin/R
 #
-# This program was created from the first project in R-programming
+# A program created from the first project in R-programming on coursera
 #
 # by: Francis Kessie
 #
