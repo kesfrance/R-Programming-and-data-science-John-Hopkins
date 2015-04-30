@@ -1,5 +1,6 @@
 #!/usr/bin/R
-# This program was created from the second project in R-programming
+# This program was created from the second project of R-programming
+# offered on Coursera, by John Hopkins University
 #
 # by: Francis Kessie
 #
