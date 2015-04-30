@@ -1,4 +1,4 @@
-# R-Programming-and-data-science-John-Hopkins
+# R-Programming-for-data-science
 
-This is a Repository for R programs generated from the data science course series on cousera.
+A Repository for some R programs generated for the data science
 
